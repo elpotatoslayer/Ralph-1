@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Ralph Oburu a Remote Full-stack Web Developer based in Uganda. Searching for interesting projects and awesome people to work with. But don't let that stop you from contacting me if you only want to make friends, grab a beer, have a chat, play chess, discuss some tech ideas, share business opportunities...
+
 <!--
 **Ralph-1/Ralph-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
