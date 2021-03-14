@@ -14,7 +14,7 @@ I'm Ralph Oburu a Remote Full-stack Web Developer based in Uganda. Searching for
 ## How to contact me?
 
 - [Twitter](https://twitter.com/NotRalph0)
-- [Linkedin](https://www.linkedin.com/in/ralph-oburu-092a561b1/)
+- [Linkedin](https://www.linkedin.com/in/ralph-oburu)
 - [Ralphoburu@gmail.com](mailto:ralphoburu@gmail.)
 
 
